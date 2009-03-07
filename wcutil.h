@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2008, Renzo Carbonara <gnuk0001 [at] gmail [dot] com>
+ * Copyright (c) 2009, Renzo Carbonara <gnuk0001 [at] gmail [dot] com>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
